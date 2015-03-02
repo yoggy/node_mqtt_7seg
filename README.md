@@ -30,7 +30,7 @@ How to use
 ----
 Run node_mqtt_7seg.js
 
-    $ node mqtt_7seg.js
+    $ node node_mqtt_7seg.js
     open : port="/dev/ttyUSB0
         .
         .
